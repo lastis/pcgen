@@ -1,0 +1,18 @@
+CAMPAIGN:Improved Carrying Capacitity
+KEY:5e - Homebrew
+RANK:6
+BOOKTYPE:Homebrew Supplement
+GAMEMODE:5e
+STATUS:RELEASE
+TYPE:Homebrew
+SOURCELONG:Homebrew
+SOURCESHORT:HS
+SOURCEDATE:2016-06
+PUBNAMELONG:Homebrew Support
+PUBNAMESHORT:HS
+COPYRIGHT:Homebrew
+
+INFOTEXT:D&D 5e Homebrew Support
+
+TEMPLATE:carry_capacity.lst
+

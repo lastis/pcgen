@@ -1,0 +1,22 @@
+CAMPAIGN:Ravenloft Archetypes II
+KEY:5e - Ravenloft Archetypes II
+RANK:1
+BOOKTYPE:Supplement
+GAMEMODE:5e
+STATUS:RELEASE
+TYPE:Ravenloft.Archetypes II
+SOURCELONG:Archtypes II Core Domains Adventurers Guide
+SOURCESHORT:RAARII
+SOURCEDATE:2016-08
+PUBNAMELONG:Ravenloft
+PUBNAMESHORT:RA
+
+PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core Rules
+
+INFOTEXT:Archetypes from Ravenloft
+ABILITY:rlatII_abilities.lst
+ABILITYCATEGORY:rlatII_abilitycategories.lst
+CLASS:rlatII_classes.lst
+SPELL:rlatII_spells.lst
+# KIT:wh_kits.lst
+# TEMPLATE:wh_templates.lst
