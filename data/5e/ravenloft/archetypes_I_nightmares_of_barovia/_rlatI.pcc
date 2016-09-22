@@ -1,0 +1,20 @@
+CAMPAIGN:Ravenloft Archetypes I
+KEY:5e - Ravenloft Archetypes I
+RANK:1
+BOOKTYPE:Supplement
+GAMEMODE:5e
+STATUS:RELEASE
+TYPE:Ravenloft.Archetypes I
+SOURCELONG:Archtypes I Nightmares of Barovia 
+SOURCESHORT:RLAT_I
+SOURCEDATE:2016-08
+PUBNAMELONG:Ravenloft
+PUBNAMESHORT:RL
+
+PRECAMPAIGN:1,INCLUDESBOOKTYPE=Core Rules
+
+INFOTEXT:Archetypes from Ravenloft
+ABILITY:rlatI_abilities.lst
+ABILITYCATEGORY:rlatI_abilitycategories.lst
+#CLASS:rlatI_classes.lst
+SPELL:rlatI_spells.lst
