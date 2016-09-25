@@ -36,3 +36,10 @@ Warning Roar	SOURCEPAGE:p.45	SCHOOL:Evocation	CASTTIME:1 action	RANGE:30 feet	CO
 #Quickling Step.MOD	CLASSES:Warlock=0							
 #Reaver's Touch.MOD	CLASSES:Warlock=0							
 #Warning Roar.MOD	CLASSES:Warlock=0							
+								
+Create Poison.MOD	CLASSES:Warlock=1							
+Dead Man's Tell.MOD	CLASSES:Warlock=1							
+Fiery Wrath.MOD	CLASSES:Warlock=1							
+Frightful Strike.MOD	CLASSES:Warlock=1							
+								
+Magnetism.MOD	CLASSES:Warlock=3							
